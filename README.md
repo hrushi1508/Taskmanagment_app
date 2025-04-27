@@ -1,6 +1,6 @@
 # 🔐 Secure Task Management App
 
-A full-stack Task Management application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to register, login, and manage their tasks securely. The app uses JWT-based authentication with access and refresh tokens for session management.
+My first full-stack Task Management application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to register, login, and manage their tasks securely. The app uses JWT-based authentication with access and refresh tokens for session management.
 
 ---
 

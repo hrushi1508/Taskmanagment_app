@@ -36,10 +36,10 @@ Note:
       Change the .env variables based on your requriments.
 ## ⚙️ Installation and Running Locally
 
-Routes:
-     - /login
-     - /register
-     - /tasklist
+Routes
+- /login
+- /register
+- /tasklist
 
 ### 1. Clone the repository
 

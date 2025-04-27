@@ -37,9 +37,9 @@ Note:
 ## ⚙️ Installation and Running Locally
 
 Routes:
-      /login
-      /register
-      /tasklist
+     - /login
+     - /register
+     - /tasklist
 
 ### 1. Clone the repository
 
